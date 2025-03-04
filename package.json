@@ -1,0 +1,31 @@
+{
+  "name": "converticonsqualityengineer",
+  "version": "1.0.0",
+  "description": "this is the main reposotory icon for quality engineer, test automatomation, test engineer etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "resize-images": "node converticons.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljazarifoundation/convertericonqualityengineer.git"
+  },
+  "keywords": [
+    "testautomation",
+    "testengineer",
+    "qualityengineer",
+    "softwaretesting",
+    "qualitytools"
+  ],
+  "author": "aljazarifoundation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aljazarifoundation/convertericonqualityengineer/issues"
+  },
+  "homepage": "https://github.com/aljazarifoundation/convertericonqualityengineer#readme",
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "sharp": "^0.32.6"
+  }
+}
