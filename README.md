@@ -54,6 +54,12 @@
 |------|------|-------|-------|-------|
 | ![apache_jmeter_48.png](./resized-icons/apache_jmeter_48.png) | ![apache_jmeter_64.png](./resized-icons/apache_jmeter_64.png) | ![apache_jmeter_128.png](./resized-icons/apache_jmeter_128.png) | ![apache_jmeter_256.png](./resized-icons/apache_jmeter_256.png) | ![apache_jmeter_512.png](./resized-icons/apache_jmeter_512.png) |
 
+## apisecurity
+
+| 48px | 64px | 128px | 256px | 512px |
+|------|------|-------|-------|-------|
+| ![apisecurity_48.png](./resized-icons/apisecurity_48.png) | ![apisecurity_64.png](./resized-icons/apisecurity_64.png) | ![apisecurity_128.png](./resized-icons/apisecurity_128.png) | ![apisecurity_256.png](./resized-icons/apisecurity_256.png) | ![apisecurity_512.png](./resized-icons/apisecurity_512.png) |
+
 ## apium_device_farm
 
 | 48px | 64px | 128px | 256px | 512px |
@@ -462,6 +468,12 @@
 |------|------|-------|-------|-------|
 | ![http_48.png](./resized-icons/http_48.png) | ![http_64.png](./resized-icons/http_64.png) | ![http_128.png](./resized-icons/http_128.png) | ![http_256.png](./resized-icons/http_256.png) | ![http_512.png](./resized-icons/http_512.png) |
 
+## icons8-tiktok-500
+
+| 48px | 64px | 128px | 256px | 512px |
+|------|------|-------|-------|-------|
+| ![icons8-tiktok-500_48.png](./resized-icons/icons8-tiktok-500_48.png) | ![icons8-tiktok-500_64.png](./resized-icons/icons8-tiktok-500_64.png) | ![icons8-tiktok-500_128.png](./resized-icons/icons8-tiktok-500_128.png) | ![icons8-tiktok-500_256.png](./resized-icons/icons8-tiktok-500_256.png) | ![icons8-tiktok-500_512.png](./resized-icons/icons8-tiktok-500_512.png) |
+
 ## idcloudhost
 
 | 48px | 64px | 128px | 256px | 512px |
@@ -551,6 +563,12 @@
 | 48px | 64px | 128px | 256px | 512px |
 |------|------|-------|-------|-------|
 | ![junit_48.png](./resized-icons/junit_48.png) | ![junit_64.png](./resized-icons/junit_64.png) | ![junit_128.png](./resized-icons/junit_128.png) | ![junit_256.png](./resized-icons/junit_256.png) | ![junit_512.png](./resized-icons/junit_512.png) |
+
+## Jupyter
+
+| 48px | 64px | 128px | 256px | 512px |
+|------|------|-------|-------|-------|
+| ![Jupyter_48.png](./resized-icons/Jupyter_48.png) | ![Jupyter_64.png](./resized-icons/Jupyter_64.png) | ![Jupyter_128.png](./resized-icons/Jupyter_128.png) | ![Jupyter_256.png](./resized-icons/Jupyter_256.png) | ![Jupyter_512.png](./resized-icons/Jupyter_512.png) |
 
 ## jwt
 
@@ -1428,11 +1446,11 @@
 |------|------|-------|-------|-------|
 | ![xml_48.png](./resized-icons/xml_48.png) | ![xml_64.png](./resized-icons/xml_64.png) | ![xml_128.png](./resized-icons/xml_128.png) | ![xml_256.png](./resized-icons/xml_256.png) | ![xml_512.png](./resized-icons/xml_512.png) |
 
-## xray test management
+## xray
 
 | 48px | 64px | 128px | 256px | 512px |
 |------|------|-------|-------|-------|
-| ![xray test management_48.png](./resized-icons/xray test management_48.png) | ![xray test management_64.png](./resized-icons/xray test management_64.png) | ![xray test management_128.png](./resized-icons/xray test management_128.png) | ![xray test management_256.png](./resized-icons/xray test management_256.png) | ![xray test management_512.png](./resized-icons/xray test management_512.png) |
+| ![xray_48.png](./resized-icons/xray_48.png) | ![xray_64.png](./resized-icons/xray_64.png) | ![xray_128.png](./resized-icons/xray_128.png) | ![xray_256.png](./resized-icons/xray_256.png) | ![xray_512.png](./resized-icons/xray_512.png) |
 
 ## xunit
 
