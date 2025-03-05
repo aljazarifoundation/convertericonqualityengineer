@@ -186,12 +186,6 @@
 |------|------|-------|-------|-------|
 | ![burp_suite_48.png](./resized-icons/burp_suite_48.png) | ![burp_suite_64.png](./resized-icons/burp_suite_64.png) | ![burp_suite_128.png](./resized-icons/burp_suite_128.png) | ![burp_suite_256.png](./resized-icons/burp_suite_256.png) | ![burp_suite_512.png](./resized-icons/burp_suite_512.png) |
 
-## c#
-
-| 48px | 64px | 128px | 256px | 512px |
-|------|------|-------|-------|-------|
-| ![c#_48.png](./resized-icons/c#_48.png) | ![c#_64.png](./resized-icons/c#_64.png) | ![c#_128.png](./resized-icons/c#_128.png) | ![c#_256.png](./resized-icons/c#_256.png) | ![c#_512.png](./resized-icons/c#_512.png) |
-
 ## c++
 
 | 48px | 64px | 128px | 256px | 512px |
@@ -269,6 +263,12 @@
 | 48px | 64px | 128px | 256px | 512px |
 |------|------|-------|-------|-------|
 | ![coursera_48.png](./resized-icons/coursera_48.png) | ![coursera_64.png](./resized-icons/coursera_64.png) | ![coursera_128.png](./resized-icons/coursera_128.png) | ![coursera_256.png](./resized-icons/coursera_256.png) | ![coursera_512.png](./resized-icons/coursera_512.png) |
+
+## csharp
+
+| 48px | 64px | 128px | 256px | 512px |
+|------|------|-------|-------|-------|
+| ![csharp_48.png](./resized-icons/csharp_48.png) | ![csharp_64.png](./resized-icons/csharp_64.png) | ![csharp_128.png](./resized-icons/csharp_128.png) | ![csharp_256.png](./resized-icons/csharp_256.png) | ![csharp_512.png](./resized-icons/csharp_512.png) |
 
 ## csv
 
@@ -1295,6 +1295,12 @@
 | 48px | 64px | 128px | 256px | 512px |
 |------|------|-------|-------|-------|
 | ![tevern_48.png](./resized-icons/tevern_48.png) | ![tevern_64.png](./resized-icons/tevern_64.png) | ![tevern_128.png](./resized-icons/tevern_128.png) | ![tevern_256.png](./resized-icons/tevern_256.png) | ![tevern_512.png](./resized-icons/tevern_512.png) |
+
+## tiktok
+
+| 48px | 64px | 128px | 256px | 512px |
+|------|------|-------|-------|-------|
+| ![tiktok_48.png](./resized-icons/tiktok_48.png) | ![tiktok_64.png](./resized-icons/tiktok_64.png) | ![tiktok_128.png](./resized-icons/tiktok_128.png) | ![tiktok_256.png](./resized-icons/tiktok_256.png) | ![tiktok_512.png](./resized-icons/tiktok_512.png) |
 
 ## Trello-Logo
 
